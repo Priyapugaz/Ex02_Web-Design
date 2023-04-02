@@ -19,18 +19,11 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
 <html>
-<style>
-.hrstyle{
- height:5px;
-color:red;
-background-color:red;
- }
-</style>
 <body bgcolor="cyan">
-<h1 style="font-size:60px;"><p style ="text-align: center">Saveetha Engineering College</h1>
-<hr class="hrstyle">
+<h1 style="font-size:60px;">
+<p style ="text-align: center">Saveetha Engineering College</h1>
+<hr width="2000px" color="red" size="7px" />
 <ol type="A"style="font-size:40px">
 <li>Agriculture Engineering</li>
 <li>Computer Science & Engineering</li>
@@ -46,8 +39,8 @@ background-color:red;
 <li>Mechanical Engineering</li>
 </ol>
 </body>
-
 </html>
+
 
 ## OUTPUT
 
