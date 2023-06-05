@@ -44,7 +44,8 @@
 
 ## OUTPUT
 
-![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/assets/127816320/f783a035-ee6d-4cab-8573-96a6e73a8380)
+
+![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/assets/127816320/9e773d10-b5af-4eb4-83e6-d573cd5128b0)
 
 
 ## RESULT
