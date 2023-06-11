@@ -19,7 +19,7 @@
   Open the file in a browser and verify the output.
 
 ### CODE
-```<html>
+<html>
 <body bgcolor="cyan">
 <h1 style="font-size:60px;">
 <p style ="text-align: center">Saveetha Engineering College</h1>
@@ -39,7 +39,7 @@
 <li>Mechanical Engineering</li>
 </ol>
 </body>
-</html>```
+</html>
   
 ## CODE
 <html>
