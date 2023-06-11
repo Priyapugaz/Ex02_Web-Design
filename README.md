@@ -19,8 +19,8 @@
   Open the file in a browser and verify the output.
 
 ### CODE
-'<html>'
-<body bgcolor="cyan">`
+`<html>`
+`<body bgcolor="cyan">`
 `<h1 style="font-size:60px;">`
 `<p style ="text-align: center">Saveetha Engineering College</h1>`
 `<hr width="1500px" color="red" size="7px" />`
