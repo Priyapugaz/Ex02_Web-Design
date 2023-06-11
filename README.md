@@ -45,6 +45,8 @@ CODE
 
 ### OUTPUT
 ######
-<img src="https://drive.google.com/file/d/1MmLIiPlu2VfKLDPWyiSex1C5YL89qv5B/view?usp=drive_link">
+
+[Screenshot 2023-06-05 135416](https://drive.google.com/file/d/1MmLIiPlu2VfKLDPWyiSex1C5YL89qv5B/view?usp=drive_link)
+
 ## RESULT
   List of Departments in an Institution is created successfully.
