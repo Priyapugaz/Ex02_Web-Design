@@ -1,25 +1,24 @@
-Ex.02 Implementation of Lists
-AIM
-To create list of Departments in an Institution.
+# Ex.02 Implementation of Lists
+## AIM
+  To create list of Departments in an Institution.
 
-ALGORITHM
-STEP-1
-Open notepad and type the HTML code.
+## ALGORITHM
+### STEP-1
+  Open notepad and type the HTML code.
 
-STEP-2
-Create an ordered list using <ol> tag.
+### STEP-2
+  Create an ordered list using ```<ol>``` tag.
 
-STEP-3
-List the Departments using <li> tag.
+### STEP-3
+  List the Departments using ```<li>``` tag.
 
-STEP-4
-Create an unordered list using <ul> tag for nesting lists.
+### STEP-4
+  Create an unordered list using ```<ul>``` tag for nesting lists.
 
-STEP-5
-Open the file in a browser and verify the output.
-
-CODE
-
+### STEP-5
+  Open the file in a browser and verify the output.
+  
+## CODE
 <html>
 <body bgcolor="cyan">
 <h1 style="font-size:60px;">
@@ -43,10 +42,11 @@ CODE
 </html>
 
 
-### OUTPUT
-######
+## OUTPUT
 
-![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/Screenshot)
+
+![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/assets/127816320/9e773d10-b5af-4eb4-83e6-d573cd5128b0)
+
 
 ## RESULT
   List of Departments in an Institution is created successfully.
