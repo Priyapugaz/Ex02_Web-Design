@@ -19,7 +19,9 @@ STEP-5
 Open the file in a browser and verify the output.
 
 CODE
-```<body bgcolor="cyan">
+```
+<html>
+<body bgcolor="cyan">
 <h1 style="font-size:60px;">
 <p style ="text-align: center">Saveetha Engineering College</h1>
 <hr width="1500px" color="red" size="7px" />
@@ -43,10 +45,6 @@ CODE
 
 ### OUTPUT
 ######
-
-
-![Screenshot 2023-06-05 135416](https://drive.google.com/file/d/1MmLIiPlu2VfKLDPWyiSex1C5YL89qv5B/view?usp=drive_link)
-
-
+<img src="https://drive.google.com/file/d/1MmLIiPlu2VfKLDPWyiSex1C5YL89qv5B/view?usp=drive_link">
 ## RESULT
   List of Departments in an Institution is created successfully.
