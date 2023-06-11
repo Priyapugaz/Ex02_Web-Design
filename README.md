@@ -46,7 +46,7 @@ CODE
 ### OUTPUT
 ######
 
-![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/assets/127816320/9e773d10-b5af-4eb4-83e6-d573cd5128b0)
+![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/Screenshot.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
