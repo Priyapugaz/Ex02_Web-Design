@@ -19,7 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-``<html>
+```<html>
 <body bgcolor="cyan">
 <h1 style="font-size:60px;">
 <p style ="text-align: center">Saveetha Engineering College</h1>
@@ -39,13 +39,13 @@
 <li>Mechanical Engineering</li>
 </ol>
 </body>
-</html>``
+</html>```
 
 
-## OUTPUT
+### OUTPUT
+######
 
-
-`<html>
+<html>
 <body bgcolor="cyan">
 <h1 style="font-size:60px;">
 <p style ="text-align: center">Saveetha Engineering College</h1>
@@ -65,7 +65,7 @@
 <li>Mechanical Engineering</li>
 </ol>
 </body>
-</html>`
+</html>
 
 ![Screenshot 2023-06-05 135416](https://github.com/Priyapugaz/Ex02_Web-Design/assets/127816320/9e773d10-b5af-4eb4-83e6-d573cd5128b0)
 
